@@ -69,7 +69,8 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*[❄️] Hi there, SUBZERO-MD viewed your Status🎐*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*[❄️] "Your status was swiftly captured by the elegant and intelligent Abuhurairah Chatbot, a masterpiece by Hurairah MD."
+ 🎐*",
 
 // set the auto reply massage on status reply    
 MODE: process.env.MODE || "public",
