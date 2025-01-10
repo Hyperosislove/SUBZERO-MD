@@ -79,7 +79,8 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SUBZERO VIEWED YOUR STATUS 🧸*"
+      "value": "*"Your status was swiftly captured by the elegant and intelligent Abuhurairah Chatbot, a masterpiece by Hurairah MD."
+      *"
     }, 
 
     "OWNER_NAME": {
